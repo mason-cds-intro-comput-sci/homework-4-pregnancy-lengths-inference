@@ -1,0 +1,6 @@
+Title: CDS 101 Pregnancy Lengths Inference Homework
+Depends:
+  R (>= 3.5)
+Imports:
+  tidyverse,
+  infer
