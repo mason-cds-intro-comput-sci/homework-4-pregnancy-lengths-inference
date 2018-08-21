@@ -33,42 +33,42 @@ nsfg6 <- read_rds("2002FemPreg.rds")
 set.seed(361356566)
 ```
 
-#### Question 1
+## Question 1
 
 
 
 
-#### Question 2
+## Question 2
 
 
 
 
-#### Question 3
+## Question 3
 
 
 
 
-#### Question 4
+## Question 4
 
 
 
 
-#### Question 5
+## Question 5
 
 
 
 
-#### Question 6
+## Question 6
 
 
 
 
-#### Question 7
+## Question 7
 
 
 
 
-#### Question 8
+## Question 8
 
 
 
