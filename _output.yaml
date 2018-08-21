@@ -1,0 +1,26 @@
+---
+html_document:
+  theme: default
+  toc: false
+  df_print: kable
+  fig_caption: false
+  number_sections: false
+  highlight: tango
+  smart: true
+  dev: svg
+  self_contained: false
+pdf_document:
+  toc: false
+  df_print: kable
+  fig_caption: false
+  number_sections: false
+  highlight: tango
+  dev: pdf
+github_document:
+  toc: true
+  toc_depth: 4
+  dev: svg
+  df_print: kable
+  html_preview: false
+  pandoc_args: --webtex
+...
