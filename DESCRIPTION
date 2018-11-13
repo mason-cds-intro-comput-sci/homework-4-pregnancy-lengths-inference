@@ -2,5 +2,9 @@ Title: CDS 101 Pregnancy Lengths Inference Homework
 Depends:
   R (>= 3.5)
 Imports:
-  tidyverse,
-  infer
+  fs (>= 1.2.6),
+  tidyverse (>= 1.2.1),
+  infer (>= 0.4.0)
+Remotes:
+  r-lib/fs@v1.2.6,
+  tidymodels/infer@develop
